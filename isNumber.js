@@ -1,3 +1,4 @@
+
 // https://stackoverflow.com/questions/20169217/how-to-write-isnumber-in-javascript
 
 var isNumber = function isNumber(value) {
