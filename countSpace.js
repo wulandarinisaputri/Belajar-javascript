@@ -1,4 +1,4 @@
-// Menghitung jumlah spasi dari sebuah string
+
 function countSpace(str){
   // inisialisasi
   sum = 0;
