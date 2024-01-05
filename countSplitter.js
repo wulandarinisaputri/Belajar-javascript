@@ -1,4 +1,4 @@
-// Menghitung jumlah splitter
+
 function countSplitter(str){
   // inisialisasi
   sum = 0;
