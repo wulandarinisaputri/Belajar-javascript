@@ -1,3 +1,4 @@
+
 // this sample implemented in Discord command
 
 var authorAvatarURL = msg.author.displayAvatarURL();  // author avatar
