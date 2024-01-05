@@ -1,3 +1,4 @@
+
 // Set static variables
 var abcUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var abcUpperArr = abcUpper.split("");
