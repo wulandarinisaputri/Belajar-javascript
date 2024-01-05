@@ -1,3 +1,4 @@
+conent:
 console.log("Name           = " + msg.guild.name);
 console.log("ID             = " + msg.guild.id);
 console.log("Icon URL       = " + msg.guild.iconURL({ format: "png", dynamic: true, size: 2048 })); 
@@ -29,3 +30,4 @@ console.log("non-Bot Accounts  = " + msg.guild.members.cache.filter(m => !m.user
 console.log("Bot Accounts      = " + msg.guild.members.cache.filter(m => m.user.bot).size); 
 
 msg.guild.emojis.cache.array();  //  Server Emojis List
+
