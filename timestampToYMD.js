@@ -1,3 +1,4 @@
+
 function transTime(time) {
 // translate dari timestamp menjadi YMD
   var date = new Date();
